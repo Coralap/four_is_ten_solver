@@ -1,0 +1,9 @@
+[package]
+name = "tutorial1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+evalexpr = "11.3.0"
+itertools = "0.13.0"
