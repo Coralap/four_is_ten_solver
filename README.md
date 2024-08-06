@@ -1,1 +1,1 @@
-its a 4=10 solver faster than yohlimem's
+its a 4=10 solver slower than yohlimem's
